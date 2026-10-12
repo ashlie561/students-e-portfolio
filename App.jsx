@@ -83,7 +83,7 @@ export default function App() {
         <section id="home" className="hero section-wrap">
           <div className="hero-copy">
             <div className="availability"><span className="status-dot"/> STUDENT • ASPIRING WEB DEVELOPER</div>
-            <h1>Hi, I'm <span className="gradient-text">Your Name.</span><br/>I build things for<br className="desktop-break"/> the <span className="serif-word">digital world.</span></h1>
+            <h1>Hi, I'm <span className="gradient-text">Ashlee Nicole Magayanes.</span><br/>I build things for<br className="desktop-break"/> the <span className="serif-word">digital world.</span></h1>
             <p className="hero-description">I'm an IT student exploring web development, databases, and networking. I enjoy turning ideas into clean, useful, and user-friendly digital experiences.</p>
             <div className="hero-actions">
               <a className="button button-primary" href="#projects">Explore my work <ArrowUpRight size={17}/></a>
@@ -102,7 +102,7 @@ export default function App() {
             <div className="profile-card">
               <div className="profile-top"><span className="profile-label">PORTFOLIO / 2026</span><span className="profile-star"><Sparkles size={16}/></span></div>
               <div className="avatar-placeholder"><span>YN</span><div className="avatar-spark">✳</div></div>
-              <p className="profile-name">Your Name</p>
+              <p className="profile-name">Ashlee Nicole Magayanes</p>
               <p className="profile-role">Information Technology Student</p>
               <div className="profile-divider"/>
               <div className="profile-stats"><div><strong>03+</strong><span>PROJECTS</span></div><div><strong>06</strong><span>CORE SKILLS</span></div><div><strong>∞</strong><span>IDEAS</span></div></div>
